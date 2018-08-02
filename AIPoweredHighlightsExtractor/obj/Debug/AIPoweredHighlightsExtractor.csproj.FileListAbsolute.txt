@@ -1,0 +1,7 @@
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\Debug\AIPoweredHighlightsExtractor.exe.config
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\Debug\AIPoweredHighlightsExtractor.exe
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\Debug\AIPoweredHighlightsExtractor.pdb
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\Debug\SpeechClient.dll
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\Debug\AIPoweredHighlightsExtractor.csprojResolveAssemblyReference.cache
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\Debug\AIPoweredHighlightsExtractor.exe
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\Debug\AIPoweredHighlightsExtractor.pdb

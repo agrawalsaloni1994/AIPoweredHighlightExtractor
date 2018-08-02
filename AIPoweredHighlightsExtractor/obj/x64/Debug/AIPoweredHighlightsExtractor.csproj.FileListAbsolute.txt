@@ -1,0 +1,15 @@
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\AIPoweredHighlightsExtractor.exe.config
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\AIPoweredHighlightsExtractor.exe
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\AIPoweredHighlightsExtractor.pdb
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\SpeechClient.dll
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\x64\Debug\AIPoweredHighlightsExtractor.exe
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\x64\Debug\AIPoweredHighlightsExtractor.pdb
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\song.wav
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\batman.wav
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\nlp.py
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\satya2.wav
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\bin\x64\Debug\satya1.wav
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor\AIPoweredHighlightsExtractor\obj\x64\Debug\AIPoweredHighlightsExtractor.csprojResolveAssemblyReference.cache
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor - Copy\AIPoweredHighlightsExtractor\bin\x64\Debug\AIPoweredHighlightsExtractor.exe.config
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor - Copy\AIPoweredHighlightsExtractor\obj\x64\Debug\AIPoweredHighlightsExtractor.exe
+C:\Users\saagraw\Documents\Visual Studio 2015\Projects\AIPoweredHighlightsExtractor - Copy\AIPoweredHighlightsExtractor\obj\x64\Debug\AIPoweredHighlightsExtractor.pdb
